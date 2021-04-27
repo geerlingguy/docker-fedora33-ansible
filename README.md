@@ -1,6 +1,6 @@
 # Fedora 33 Ansible Test Image
 
-[![Build Status](https://travis-ci.com/geerlingguy/docker-fedora33-ansible.svg?branch=master)](https://travis-ci.com/geerlingguy/docker-fedora33-ansible) [![Docker Automated build](https://img.shields.io/docker/automated/geerlingguy/docker-fedora33-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/geerlingguy/docker-fedora33-ansible/)
+[![CI](https://github.com/geerlingguy/docker-fedora33-ansible/workflows/Build/badge.svg?branch=master&event=push)](https://github.com/geerlingguy/docker-fedora33-ansible/actions?query=workflow%3ABuild) [![Docker pulls](https://img.shields.io/docker/pulls/geerlingguy/docker-fedora33-ansible)](https://hub.docker.com/r/geerlingguy/docker-fedora33-ansible/)
 
 Fedora 33 Docker container for Ansible playbook and role testing.
 
